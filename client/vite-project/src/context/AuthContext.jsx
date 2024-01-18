@@ -16,7 +16,7 @@ const [registerInfo , setRegisterInfo] = useState({
 console.log("registerInfo", registerInfo);
 
 const updateRegisterInfo = useCallback((info) => {
-    setRegisterInfo(info)
+    setRegisterInfo(info);
 }, []);
 
 const registerUser = useCallback(async(e) => {
@@ -29,13 +29,13 @@ const registerUser = useCallback(async(e) => {
    setIsRegisterLoading(false);
 
    if(response.error){
-    return setRegisterError(response.error)
+    return setRegisterError(response);
    }
-    localStorage.setItem("user", JSON.stringify(response))
-   setUser(response.data)
-}, []);
+    localStorage.setItem("User", JSON.stringify(response))
+   setUser(response)
+}, [registerInfo]);
 
-    return(
+    return (
          <AuthContext.Provider
     value={{
         user,

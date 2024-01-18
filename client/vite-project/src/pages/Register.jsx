@@ -45,9 +45,10 @@ const Register = () => {
                  {isRegisterLoading ? "Creating your account" : "Register"}
              </Button>
              {
-             registerError?.error && <Alert variant="danger">
+             registerError?.error && ( <Alert variant="danger">
                 <p>{registerError?.message}</p>
                 </Alert>
+             )
 }
             </Stack>
             </Col>

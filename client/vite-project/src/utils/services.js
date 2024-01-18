@@ -6,13 +6,13 @@ export const postRequest = async(url,body) => {
         headers: {
             'Content-Type': 'application/json'
         },
-        body: JSON.stringify(body)
+        body
     });
     
     const data = await response.json();
     
     if (!response.ok) {
-        let message
+        let message;
 
         if(data?.message){
            message = data.message 
