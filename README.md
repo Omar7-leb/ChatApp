@@ -1,7 +1,7 @@
-**$${\color{blue}Description:}$$**</br>
+**$${\color{white}Description:}$$**</br>
 A Real-Time Chat Application provides a seamless communication platform for users to connect instantly with others. Built using Socket.io for real-time messaging, Node.js and Express for the backend, and React.js with Vite.js for the frontend, our app offers a modern and efficient chat experience.
 
-<br>**$${\color{blue}Key feautures:}$$**</br>
+<br>**$${\color{white}Key feautures:}$$**</br>
 
 **<span style="color: blue;">Real-Time Messaging:</span>** Users can send and receive messages instantly, creating a smooth and interactive chatting experience.
 
@@ -11,7 +11,7 @@ A Real-Time Chat Application provides a seamless communication platform for user
 
 **<span style="color: blue;">User Authentication:</span>** Secure user authentication with login and signup functionalities ensures that only authorized users can access the chat features.
 
-**$${\color{blue}Technologies used:}$$**
+**$${\color{white}Technologies used:}$$**
 
 **<span style="color: blue;">Socket.io:</span>** Enables real-time bidirectional event-based communication between clients and the server, facilitating instant messaging.
 
