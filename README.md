@@ -8,3 +8,4 @@ A  real time chat app using nodejs , react and socket.io
 
 ![Screenshot 2024-01-30 103040](https://github.com/Omar7-leb/ChatApp/assets/125736709/23ebfb16-8b85-4a0a-9b47-7babce8f8c96)
 
+![Screenshot 2024-01-30 103130](https://github.com/Omar7-leb/ChatApp/assets/125736709/e0aaaf9e-8019-4101-9986-ee6ba0f5dae3)
