@@ -1,5 +1,5 @@
 **$${\color{white}Description:}$$**</br>
-A Real-Time Chat Application provides a seamless communication platform for users to connect instantly with others. Built using Socket.io for real-time messaging, Node.js and Express for the backend, and React.js with Vite.js for the frontend, our app offers a modern and efficient chat experience.
+A Real-Time Chat Application provides a seamless communication platform for users to connect instantly with others. Built using Socket.io for real-time messaging, Node.js and Express for the backend, and React.js with Vite.js for the frontend, and mongodb to store data our app offers a modern and efficient chat experience.
 
 <br>**$${\color{white}Key feautures:}$$**</br>
 
@@ -18,6 +18,8 @@ A Real-Time Chat Application provides a seamless communication platform for user
 **<span style="color: blue;">Node.js and Express:</span>** Power the backend server, handling client requests, user authentication, and message routing.
 
 **<span style="color: blue;">React.js with Vite.js:</span>** Provides a fast and efficient frontend development environment, offering a responsive and dynamic user interface.
+
+**MongoDB:** Stores data efficiently and securely, providing a scalable solution for managing chat messages and user information.
 
 
 ![Screenshot 2024-01-30 101956](https://github.com/Omar7-leb/ChatApp/assets/125736709/0997d04c-8889-4807-bcf0-caf76b873ab0)
