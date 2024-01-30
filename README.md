@@ -1,4 +1,4 @@
-<strong>Description:</strong>
+**Description:**
 Our Real-Time Chat Application provides a seamless communication platform for users to connect instantly with others. Built using Socket.io for real-time messaging, Node.js and Express for the backend, and React.js with Vite.js for the frontend, our app offers a modern and efficient chat experience.
 
 <br>Key Features:</br>
