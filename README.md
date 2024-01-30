@@ -1,23 +1,23 @@
-**Description:**
+**Description:** </br>
 Our Real-Time Chat Application provides a seamless communication platform for users to connect instantly with others. Built using Socket.io for real-time messaging, Node.js and Express for the backend, and React.js with Vite.js for the frontend, our app offers a modern and efficient chat experience.
 
-<br>Key Features:</br>
+<br>**Key Features:**</br>
 
-Real-Time Messaging: Users can send and receive messages instantly, creating a smooth and interactive chatting experience.
+**Real-Time Messaging:** Users can send and receive messages instantly, creating a smooth and interactive chatting experience.
 
-Online/Offline Status: The app displays the online/offline status of users, allowing for quick identification of active participants.
+**Online/Offline Status:** The app displays the online/offline status of users, allowing for quick identification of active participants.
 
-Notifications: Users receive notifications for new messages, ensuring they stay informed and engaged even when not actively using the app.
+**Notifications:** Users receive notifications for new messages, ensuring they stay informed and engaged even when not actively using the app.
 
-User Authentication: Secure user authentication with login and signup functionalities ensures that only authorized users can access the chat features.
+**User Authentication:** Secure user authentication with login and signup functionalities ensures that only authorized users can access the chat features.
 
-Technologies Used:
+**Technologies Used:**
 
-Socket.io: Enables real-time bidirectional event-based communication between clients and the server, facilitating instant messaging.
+**Socket.io:** Enables real-time bidirectional event-based communication between clients and the server, facilitating instant messaging.
 
-Node.js and Express: Power the backend server, handling client requests, user authentication, and message routing.
+**Node.js and Express:** Power the backend server, handling client requests, user authentication, and message routing.
 
-React.js with Vite.js: Provides a fast and efficient frontend development environment, offering a responsive and dynamic user interface.
+**React.js with Vite.js:** Provides a fast and efficient frontend development environment, offering a responsive and dynamic user interface.
 
 ![Screenshot 2024-01-30 101956](https://github.com/Omar7-leb/ChatApp/assets/125736709/0997d04c-8889-4807-bcf0-caf76b873ab0)
 
